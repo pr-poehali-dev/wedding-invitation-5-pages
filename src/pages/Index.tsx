@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from "react";
 import Icon from "@/components/ui/icon";
 
 const PHOTO_1 = "https://cdn.poehali.dev/projects/26375c63-33ff-48de-ba54-0d84e6024561/bucket/a2cff249-5057-4621-bc79-72e53aa50d74.jpg";
-const PHOTO_5 = "https://cdn.poehali.dev/projects/26375c63-33ff-48de-ba54-0d84e6024561/bucket/9734bf4e-c7fa-4ca0-ad0f-7eba134a6743.jpg";
+const PHOTO_5 = "https://cdn.poehali.dev/projects/26375c63-33ff-48de-ba54-0d84e6024561/bucket/8bdbd191-7fa7-4aef-8d55-5350a7e75e06.jpg";
 
 const DAYS_TT = ["ДШ", "СШ", "ЧШ", "ПЖ", "ЖМ", "ШБ", "ЯК"];
 
