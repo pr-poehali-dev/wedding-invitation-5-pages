@@ -231,7 +231,7 @@ export default function Index() {
             <div className="w-full mb-7 overflow-hidden border border-[#e8e0d0]" style={{ maxWidth: "310px" }}>
               <iframe
                 title="Карта"
-                src="https://yandex.ru/map-widget/v1/?ll=49.88%2C56.05&z=16&pt=49.88%2C56.05%2Cpm2rdm&l=map"
+                src="https://yandex.ru/map-widget/v1/?text=%D0%A2%D0%B0%D1%82%D0%B0%D1%80%D1%81%D1%82%D0%B0%D0%BD%2C+%D0%90%D1%80%D1%81%D0%BA%2C+%D1%83%D0%BB%D0%B8%D1%86%D0%B0+%D0%92%D0%B0%D0%B3%D0%B8%D0%B7%D0%BE%D0%B2%D1%8B%D1%85%2C+%D0%B4%D0%BE%D0%BC+3&z=17&l=map"
                 width="100%"
                 height="200"
                 style={{ border: "none", display: "block" }}
@@ -247,7 +247,7 @@ export default function Index() {
               БАНКЕТЛАР ЗАЛЫ
             </p>
 
-            <a href="https://yandex.ru/maps/?text=Арча+улица+Вагизовых+3И" target="_blank" rel="noopener noreferrer"
+            <a href="https://yandex.ru/maps/?text=Татарстан,+Арск,+улица+Вагизовых,+дом+3" target="_blank" rel="noopener noreferrer"
               className="mt-6 font-montserrat text-[9px] tracking-[0.25em] uppercase text-[#9e8e78] hover:text-[#c9a84c] transition-colors border-b border-current pb-0.5">
               Картада карарга
             </a>
