@@ -240,7 +240,7 @@ export default function Index() {
             </div>
 
             <div className="font-cormorant font-400 text-[clamp(1.25rem,5.5vw,1.8rem)] text-[#1a1a1a] leading-snug mb-2">
-              Арча, Вагизовлар ур., 3И,<br/>
+              Арча, Вагизовлар ур., 3,<br/>
               «ТЫЛСЫМ»
             </div>
             <p className="font-montserrat font-400 text-[11px] tracking-[0.18em] uppercase text-[#2c2416]">
