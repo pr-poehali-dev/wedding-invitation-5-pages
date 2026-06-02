@@ -2,6 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --c-cream: #faf7f2;
+  --c-gold: #b8965a;
+  --c-text: #2c2416;
+  --c-muted: #9e8e78;
+}
+
 @layer base {
   :root {
     --background: 0 0% 100%;
