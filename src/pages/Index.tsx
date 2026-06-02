@@ -166,7 +166,7 @@ export default function Index() {
             <h1 className="font-cormorant font-700 text-[clamp(3rem,15vw,5.5rem)] text-[#1a1a1a] leading-none tracking-wide uppercase">
               ИЛЬНАЗ
             </h1>
-            <div className="font-cormorant font-300 text-[clamp(2rem,10vw,3.5rem)] text-[#1a1a1a] leading-none my-1">
+            <div className="font-cormorant font-700 text-[clamp(3rem,15vw,5.5rem)] text-[#1a1a1a] leading-none my-0 tracking-wide uppercase">
               &amp; ЗӘЛИЯ
             </div>
 
